@@ -20,7 +20,7 @@ const router = express.Router();
 
 //     res.json(result.rows[0]);
 //   } catch (error) {
-//     console.error(error);
+    // console.error(error);
 
 //     res.status(500).json({
 //       message: "Internal server error",
